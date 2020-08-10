@@ -8,4 +8,33 @@ The Olam English-Malayalam dataset is a growing, free and open, crowd sourced En
 http://nadh.in/
 
 
+### sample
+
+[
+ {
+   "# id": 174569,
+   "english_word": ".net",
+   "part_of_speech": "n",
+   "malayalam_definition": "പുത്തന്‍ കമ്പ്യൂട്ടര്‍ സാങ്കേതികത ഭാഷ"
+ },
+ {
+   "# id": 116102,
+   "english_word": "A bad patch",
+   "part_of_speech": "n",
+   "malayalam_definition": "കുഴപ്പം പിടിച്ച സമയം"
+ },
+ {
+   "# id": 219752,
+   "english_word": "a bag of bones",
+   "part_of_speech": "phr",
+   "malayalam_definition": "വളരെയതികം മെലിഞ്ഞ വ്യക്തി അഥവാ മൃഗം"
+ },
+ {
+   "# id": 218576,
+   "english_word": "a bag of bones",
+   "part_of_speech": "phr",
+   "malayalam_definition": "വളരെയധികം മെലിഞ്ഞ വ്യക്തി അഥവാ മൃഗം"
+ },
+ ]
+
 
